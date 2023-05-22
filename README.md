@@ -1,8 +1,9 @@
 # PointNet classification
 
 Push dataset into `data` folder
-```
+
 ### Prepare Csv File
+
 ```
 python prepare_csv.py
 ```
