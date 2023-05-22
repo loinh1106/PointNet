@@ -13,4 +13,4 @@ python train.py --root_path <path to dataset> --train_path <path to train.csv fi
 
 ```
 
-Output model Save at "<path to output model>" dir
+Output model Save at `output`dir
